@@ -4,4 +4,4 @@ CREATE TABLE `user_pairing_server`.`parameters` (
   `hash_m` TEXT NULL DEFAULT NULL,
   `CT` TEXT NULL DEFAULT NULL,
   `time` VARCHAR(45) NULL DEFAULT NULL,
-  PRIMARY KEY (`id`));
+  PRIMARY KEY (`id`)); 
